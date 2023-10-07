@@ -1,0 +1,95 @@
+body{
+    background: #c31432;  
+    background: -webkit-linear-gradient(to right, #240b36, #c31432);  
+    background: linear-gradient(to right, #240b36, #c31432); 
+    
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: #f6416c;
+}
+.c1{
+    background-color: azure;
+    height:300px;
+    width:900px;
+    position: relative;
+    top:100px;
+    left:150px;
+    display: flex;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+.youtube{
+    height:100px;
+    width:100px;
+    background-color: white;
+    border-radius: 50%;
+    border:2px solid black;
+    position: relative;
+    left:20px;
+    right:20px;
+    top: 40px;
+    margin: 50px;
+}
+.ig{
+    height:100px;
+    width:100px;
+    background-color: white;
+    border-radius: 50%;
+    border:2px solid black;
+    position: relative;
+    left:20px;
+    top: 40px;
+    right:20px;
+    margin: 50px;
+}
+.fb{
+    height:100px;
+    width:100px;
+    background-color: white;
+    border-radius: 50%;
+    border:2px solid black;
+    position: relative;
+    left:20px;
+    top: 40px;
+    right:20px;
+    margin: 50px;
+   
+}
+.git{
+    height:100px;
+    width:100px;
+    background-color: white;
+    border-radius: 50%;
+    border:2px solid black;
+    position: relative;
+    left:20px;
+    right:20px;
+    top: 40px;
+    margin: 50px;
+
+}
+.youtube:hover{
+    background-color: black;
+    
+}
+.ig:hover{
+    background-color: #240b36;
+    
+}
+.fb:hover{
+    background-color:#f6416c;
+    
+}
+.git:hover{
+    background-color: red;
+    
+}
+H5{
+    position: relative;
+    top:70px;
+    left: 20px;
+    text-decoration:none;
+    color: #f6416c;
+}
